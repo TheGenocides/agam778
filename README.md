@@ -7,10 +7,10 @@
 - Known languages:
   - 🇬🇧 English
   - 🇮🇳 Hindi
-<br />
+
 [![YouTube](https://img.shields.io/badge/YouTube_Channel-Visit-red?style=for-the-badge)](https://bit.ly/agamtechtricks)
 [![Website](https://img.shields.io/badge/Website-Visit-1c1c1c?style=for-the-badge)](https://agam778.github.io)
-
+<br />
 <p><img src="https://github-readme-stats.vercel.app/api?username=agam778&show_icons=true&theme=dark&icon_color=eee"><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agam778&theme=dark&hide_langs_below=1-"></p>
 
 # Languages I know
