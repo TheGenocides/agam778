@@ -33,5 +33,4 @@
 - Advanced googleing
 - Advanced Linux User
 - Software Developing
-- Icon Making
 - Shotcut Video Editor
