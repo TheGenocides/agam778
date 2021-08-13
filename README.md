@@ -1,5 +1,8 @@
-
-<h1>Hi There 👋. My name is Agampreet Singh</h1>
+<h1 align=center><b>Agampreet Singh<br>A Developer of Many <strike>Small</strike> Projects!</b></h1>
+<p align="center"><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=black" alt="Open source apps"></a>
+&nbsp;<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/LINUX-orange?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a>
+&nbsp;<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black" alt="VSCode"></a>
+&nbsp;<a href="https://en.wikipedia.org/wiki/India"><img src="https://img.shields.io/badge/INDIA-red?style=for-the-badge&logo=Google%20Earth&logoColor=black" alt="India"></a>
 
 - 🔭 I’m currently working on Microsoft Office - Electron - It is a free version of Microsoft Office based on Electron. Anybody can use it for free without paying any money.
 - 🌱 I’m currently learning programming (various programming languages)
