@@ -18,7 +18,7 @@ Hi, my name is **Agampreet Singh**. I am:
 ## 🌏 Social
 [![Github: agam778](https://img.shields.io/github/followers/agam778?labelColor=24292E&color=24292E&label=github%20agam778&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/agam778)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/agamtechtricks)<br>
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=333333&style=for-the-badge)](https://bit.ly/agamtechtricks)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCEOm89QQ_hQCYZKbWQKyBJg?label=YouTube&logo=youtube&logoColor=white&style=for-the-badge)](https://bit.ly/agamtechtricks)
   
 ## ⚡ Technologies
 Here is a list of technologies that i have experience with:
