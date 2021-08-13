@@ -6,8 +6,8 @@
   
 ## 💡 About
 <a href="https://github.com/NNBnh">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&theme=dark&show_icons=true)">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778&theme=dark">
 </a>
 
 Hi, my name is **Agampreet Singh**. I am:
