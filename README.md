@@ -32,7 +32,8 @@ Here is a list of technologies that i have experience with:
 [![Canva](https://img.shields.io/badge/Canva-%42d1f5.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.canva.com)
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/Bash-%2300599C.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF)](https://isocpp.org)
+[![Bash](https://img.shields.io/badge/Bash-%2300599C.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
+[![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-grey?style=for-the-badge&logo=Windows%20Terminal&logoColor=FFFFFF)](https://ohmy.zsh)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/HTML5)
 [![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron&logoColor=FFFFFF)](https://electronjs.org)
