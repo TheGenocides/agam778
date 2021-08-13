@@ -34,8 +34,9 @@ Here is a list of technologies that i have experience with:
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-%2300599C.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF)](https://isocpp.org)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
-[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
-[![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron&logoColor=FFFFFF)](https://sass-lang.com)
+[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/HTML5)
+[![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron&logoColor=FFFFFF)](https://electronjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org)
 
 [![Arch Linux](https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%2335BF5C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://endeavouros.com)
