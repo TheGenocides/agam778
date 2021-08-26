@@ -15,6 +15,10 @@ Hi, my name is **Agampreet Singh**. I am:
 - 💻 A developer (small projects right now and still learning)
 - 📹 A YouTuber on Technlology
 
+Currently Working on:
+- [DogeFox](https://github.com/Doge-Fox) (W.I.P.) - A Rebranding of Firefox named DogeFox (It once existed in 2017 so reviving it)
+- [MS Office - Electron](https://github.com/agam778/MS-Office-Electron) - An MS Office Online Electron Wrapper for free!
+
 ## 🌏 Social
 [![Github: agam778](https://img.shields.io/github/followers/agam778?labelColor=24292E&color=24292E&label=github%20agam778&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/agam778)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/agamtechtricks)<br>
