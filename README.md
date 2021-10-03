@@ -16,7 +16,6 @@ Hi, my name is **Agampreet Singh**. I am:
 - 📹 A YouTuber on Technlology
 
 Currently Working on:
-- [DogeFox](https://github.com/Doge-Fox) (W.I.P.) - A Rebranding of Firefox named DogeFox (It once existed in 2017 so reviving it)
 - [MS Office - Electron](https://github.com/agam778/MS-Office-Electron) - An MS Office Online Electron Wrapper for free!
 
 ## 🌏 Social
