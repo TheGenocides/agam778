@@ -17,6 +17,7 @@ Hi, my name is **Agampreet Singh**. I am:
 
 Currently Working on:
 - [MS Office - Electron](https://github.com/agam778/MS-Office-Electron) - An MS Office Online Electron Wrapper for free!
+- [CannyBot](https://top.gg/bot/869085787310932060) - An Intelligent and Cool Bot with Many Commands like Fun, Image, Tech, and many more!
 
 ## 🌏 Social
 [![Github: agam778](https://img.shields.io/github/followers/agam778?labelColor=24292E&color=24292E&label=github%20agam778&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/agam778)<br>
