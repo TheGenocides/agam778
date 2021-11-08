@@ -15,6 +15,9 @@ Hi, my name is **Agampreet Singh**. I am:
 - 💻 A developer (small projects right now and still learning)
 - 📹 A YouTuber on Technlology
 
+
+![agam778](https://komarev.com/ghpvc/?username=agam778)
+
 Currently Working on:
 - [MS Office - Electron](https://github.com/agam778/MS-Office-Electron) - An MS Office Online Electron Wrapper for free!
 - [CannyBot](https://top.gg/bot/869085787310932060) - An Intelligent and Cool Bot with Many Commands like Fun, Image, Tech, and many more!
